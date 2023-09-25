@@ -16,6 +16,7 @@ It empowers both hosts and guests, fostering stronger connections and enriching 
 Stay-N-Sleep's commitment to deepening relationships within its global community sets this loyalty program apart in the competitive travel landscape.
 
 # Refer to Final Presentation Template
+https://github.com/agargav/ProductSchool/blob/main/Final%20Presentation%20Template.pptx
 
 
 
